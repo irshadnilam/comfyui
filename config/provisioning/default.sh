@@ -13,7 +13,8 @@ PYTHON_PACKAGES=(
 NODES=(
     "https://github.com/ltdrdata/ComfyUI-Manager"
     "https://github.com/jags111/efficiency-nodes-comfyui"
-    
+    "https://github.com/ltdrdata/ComfyUI-Impact-Pack"
+    "https://github.com/Derfuu/Derfuu_ComfyUI_ModdedNodes"
 )
 
 CHECKPOINT_MODELS=(
