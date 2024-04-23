@@ -15,6 +15,7 @@ NODES=(
     "https://github.com/jags111/efficiency-nodes-comfyui"
     "https://github.com/ltdrdata/ComfyUI-Impact-Pack"
     "https://github.com/Derfuu/Derfuu_ComfyUI_ModdedNodes"
+    "https://github.com/ssitu/ComfyUI_UltimateSDUpscale"
 )
 
 CHECKPOINT_MODELS=(
