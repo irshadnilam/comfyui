@@ -16,6 +16,7 @@ NODES=(
     "https://github.com/ltdrdata/ComfyUI-Impact-Pack"
     "https://github.com/Derfuu/Derfuu_ComfyUI_ModdedNodes"
     "https://github.com/ssitu/ComfyUI_UltimateSDUpscale"
+    "https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite"
 )
 
 CHECKPOINT_MODELS=(
